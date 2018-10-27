@@ -6,11 +6,11 @@ def using_sort(array, element)
 array.sort(element)
 end
 
-def using_reverse(array)
+def using_reverse(array, element)
 array.reverse(element)
 end
 
-def using_first(array)
+def using_first(array, element)
 array.first(element)
 end
 
